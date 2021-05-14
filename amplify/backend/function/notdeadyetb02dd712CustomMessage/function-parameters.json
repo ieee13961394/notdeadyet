@@ -1,0 +1,26 @@
+{
+  "trigger": true,
+  "modules": [
+    "verification-link"
+  ],
+  "parentResource": "notdeadyetb02dd712",
+  "functionName": "notdeadyetb02dd712CustomMessage",
+  "resourceName": "notdeadyetb02dd712CustomMessage",
+  "parentStack": "auth",
+  "triggerEnvs": [
+    {
+      "key": "RESOURCENAME",
+      "value": "resourceName"
+    }
+  ],
+  "triggerDir": "/usr/lib/node_modules/@aws-amplify/cli/node_modules/amplify-category-auth/provider-utils/awscloudformation/triggers/CustomMessage",
+  "triggerTemplate": "CustomMessage.json.ejs",
+  "triggerEventPath": "CustomMessage.event.json",
+  "roleName": "notdeadyetb02dd712CustomMessage",
+  "skipEdit": true,
+  "REDIRECTURL": "https://master.db5fi3ru8j206.amplifyapp.com/",
+  "EMAILSUBJECT": "Verify your account - Not Dead Yet",
+  "EMAILMESSAGE": "",
+  "RESOURCENAME": "resourceName",
+  "enableCors": false
+}

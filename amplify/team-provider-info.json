@@ -10,6 +10,20 @@
       "StackName": "amplify-amplifyad39512babff4-staging-174933",
       "StackId": "arn:aws:cloudformation:eu-west-1:310521374721:stack/amplify-amplifyad39512babff4-staging-174933/93ed1aa0-b413-11eb-9454-020f31afd747",
       "AmplifyAppId": "db5fi3ru8j206"
+    },
+    "categories": {
+      "function": {
+        "notdeadyetb02dd712CustomMessage": {
+          "REDIRECTURL": "https://master.db5fi3ru8j206.amplifyapp.com/",
+          "EMAILSUBJECT": "Verify your account - Not Dead Yet",
+          "EMAILMESSAGE": "",
+          "deploymentBucketName": "amplify-amplifyad39512babff4-staging-174933-deployment",
+          "s3Key": "amplify-builds/notdeadyetb02dd712CustomMessage-54526941416637505638-build.zip"
+        }
+      },
+      "auth": {
+        "notdeadyetb02dd712": {}
+      }
     }
   }
 }
